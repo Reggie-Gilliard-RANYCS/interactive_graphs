@@ -1,0 +1,129 @@
+,ETHCAT,GENCAT,ANYELL0812,AVG_GPA3,anyspd1,trulydis_b,Frequency
+0,Asian,Male,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,781
+1,Asian,Male,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,801
+2,Asian,Male,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,548
+3,Asian,Male,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,960
+4,Asian,Male,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,651
+5,Asian,Male,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,777
+6,Asian,Male,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,668
+7,Asian,Male,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,744
+8,Asian,Male,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,631
+9,Asian,Male,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,537
+10,Asian,Male,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,903
+11,Asian,Male,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,693
+12,Asian,Male,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,796
+13,Asian,Male,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,603
+14,Asian,Male,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,913
+15,Asian,Male,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,756
+16,Asian,Female,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,779
+17,Asian,Female,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,831
+18,Asian,Female,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,735
+19,Asian,Female,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,626
+20,Asian,Female,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,630
+21,Asian,Female,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,783
+22,Asian,Female,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,921
+23,Asian,Female,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,546
+24,Asian,Female,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,951
+25,Asian,Female,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,762
+26,Asian,Female,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,680
+27,Asian,Female,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,597
+28,Asian,Female,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,770
+29,Asian,Female,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,641
+30,Asian,Female,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,745
+31,Asian,Female,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,640
+32,Latinx,Male,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,761
+33,Latinx,Male,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,555
+34,Latinx,Male,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,699
+35,Latinx,Male,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,927
+36,Latinx,Male,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,564
+37,Latinx,Male,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,893
+38,Latinx,Male,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,569
+39,Latinx,Male,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,759
+40,Latinx,Male,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,739
+41,Latinx,Male,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,961
+42,Latinx,Male,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,963
+43,Latinx,Male,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,708
+44,Latinx,Male,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,947
+45,Latinx,Male,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,502
+46,Latinx,Male,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,521
+47,Latinx,Male,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,982
+48,Latinx,Female,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,660
+49,Latinx,Female,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,518
+50,Latinx,Female,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,716
+51,Latinx,Female,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,818
+52,Latinx,Female,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,505
+53,Latinx,Female,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,806
+54,Latinx,Female,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,884
+55,Latinx,Female,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,873
+56,Latinx,Female,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,560
+57,Latinx,Female,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,567
+58,Latinx,Female,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,812
+59,Latinx,Female,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,673
+60,Latinx,Female,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,738
+61,Latinx,Female,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,864
+62,Latinx,Female,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,928
+63,Latinx,Female,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,642
+64,Black,Male,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,917
+65,Black,Male,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,576
+66,Black,Male,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,622
+67,Black,Male,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,543
+68,Black,Male,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,924
+69,Black,Male,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,916
+70,Black,Male,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,953
+71,Black,Male,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,803
+72,Black,Male,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,827
+73,Black,Male,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,996
+74,Black,Male,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,978
+75,Black,Male,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,989
+76,Black,Male,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,811
+77,Black,Male,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,607
+78,Black,Male,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,712
+79,Black,Male,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,741
+80,Black,Female,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,500
+81,Black,Female,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,652
+82,Black,Female,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,594
+83,Black,Female,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,945
+84,Black,Female,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,725
+85,Black,Female,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,994
+86,Black,Female,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,979
+87,Black,Female,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,524
+88,Black,Female,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,974
+89,Black,Female,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,841
+90,Black,Female,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,896
+91,Black,Female,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,643
+92,Black,Female,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,737
+93,Black,Female,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,540
+94,Black,Female,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,695
+95,Black,Female,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,591
+96,White,Male,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,929
+97,White,Male,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,718
+98,White,Male,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,906
+99,White,Male,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,857
+100,White,Male,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,879
+101,White,Male,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,704
+102,White,Male,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,993
+103,White,Male,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,900
+104,White,Male,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,670
+105,White,Male,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,714
+106,White,Male,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,604
+107,White,Male,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,850
+108,White,Male,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,852
+109,White,Male,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,705
+110,White,Male,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,973
+111,White,Male,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,944
+112,White,Female,ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,568
+113,White,Female,ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,620
+114,White,Female,ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,751
+115,White,Female,ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,581
+116,White,Female,ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,976
+117,White,Female,ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,711
+118,White,Female,ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,574
+119,White,Female,ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,534
+120,White,Female,No ELL,GPA Under 80,No IEP,Non-Bottom Quintile Neighborhood,665
+121,White,Female,No ELL,GPA Under 80,No IEP,Bottom Quintile Neighborhood,599
+122,White,Female,No ELL,GPA Under 80,IEP,Non-Bottom Quintile Neighborhood,899
+123,White,Female,No ELL,GPA Under 80,IEP,Bottom Quintile Neighborhood,727
+124,White,Female,No ELL,GPA Over 80,No IEP,Non-Bottom Quintile Neighborhood,526
+125,White,Female,No ELL,GPA Over 80,No IEP,Bottom Quintile Neighborhood,694
+126,White,Female,No ELL,GPA Over 80,IEP,Non-Bottom Quintile Neighborhood,639
+127,White,Female,No ELL,GPA Over 80,IEP,Bottom Quintile Neighborhood,617
